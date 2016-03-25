@@ -10,10 +10,10 @@
 
 ## Kits, Boilerplates, Skeletons, and Generators
 
-- [google/web-starter-kit: Web Starter Kit - a workflow for multi-device websites](https://goo.gl/YNV3lb)
-- [PolymerElements/polymer-starter-kit: A starting point for Polymer 1.0 apps](https://goo.gl/xWC7vj)
-- [PolymerLabs/progressive-webapp-config: Generalised Progressive Web App skeleton](https://goo.gl/SsmiUN)
-- [hemanth/generator-pwa: Yeoman generator for a progressive webapp.](https://goo.gl/DI4yvx)
+- [google/web-starter-kit: Web Starter Kit - a workflow for multi-device websites](https://goo.gl/YNV3lb): : Boilerplate for web development with many tools, powered by Material Design Lite, supporting for Service Worker
+- [PolymerElements/polymer-starter-kit: A starting point for Polymer 1.0 apps](https://goo.gl/xWC7vj): Powered by Polymer, Material Design Layout, Web App Manifest, Home screen banner, and Platinum Service Worker elements
+- [PolymerLabs/progressive-webapp-config: Generalised Progressive Web App skeleton](https://goo.gl/SsmiUN): Progressive Web App skeleton. supporting for mobile optimized HTML, Web App Manifest, and Service Worker
+- [hemanth/generator-pwa: Yeoman generator for a progressive webapp.](https://goo.gl/DI4yvx): Yeoman generator for Progressive Web App
 
 ## App Collections
 

@@ -15,6 +15,16 @@
 
 - [Progressive Web Apps (Chrome Dev Summit 2015) - YouTube](https://goo.gl/V0GoNY): Talk about Progressive Web App from Chrome Dev Summit 2015
 
+## Components
+
+### Service Worker
+
+- [Adding a Service Worker and Offline into your Web App](https://goo.gl/O6g5NA)
+  - [Adding a Service Worker with sw-precache](https://goo.gl/jyPMBk): Codelab
+- [Service Worker Libraries | Web Tools - Google Developers](https://goo.gl/11GFov)
+  - [GoogleChrome/sw-precache: A node module to generate service worker code that will precache specific resources.](https://goo.gl/wgjwOl)
+  - [GoogleChrome/sw-toolbox: A collection of tools for service workers.](https://goo.gl/0Ox4UV)
+
 ## Kits, Boilerplates, Skeletons, and Generators
 
 - [google/web-starter-kit: Web Starter Kit - a workflow for multi-device websites](https://goo.gl/YNV3lb)

@@ -6,6 +6,8 @@
   - What is a Progressive Web App
   - Definition of Progressive Web App
   - Components details, Guides, and Code labs materials.
+  - Codelabs
+    - [Your First Progressive Web App | Web Fundamentals - Google Developers](https://goo.gl/PKp2c5)
 
 - [AddyOsmani.com - Getting started with Progressive Web Apps](https://goo.gl/GPyFQ8)
   - All that Progressive Web App
@@ -22,8 +24,8 @@
 - [Adding a Service Worker and Offline into your Web App](https://goo.gl/O6g5NA)
   - [Adding a Service Worker with sw-precache](https://goo.gl/jyPMBk): Codelab
 - [Service Worker Libraries | Web Tools - Google Developers](https://goo.gl/11GFov)
-  - [GoogleChrome/sw-precache: A node module to generate service worker code that will precache specific resources.](https://goo.gl/wgjwOl)
-  - [GoogleChrome/sw-toolbox: A collection of tools for service workers.](https://goo.gl/0Ox4UV)
+  - [GoogleChrome/sw-precache](https://goo.gl/wgjwOl): A node module to generate service worker code that will precache specific resources
+  - [GoogleChrome/sw-toolbox](https://goo.gl/0Ox4UV): A collection of tools for service workers
 
 ## Kits, Boilerplates, Skeletons, and Generators
 
@@ -40,10 +42,14 @@
 - [hemanth/generator-pwa: Yeoman generator for a progressive webapp.](https://goo.gl/DI4yvx)
   - Yeoman generator for Progressive Web App
 
+## Learning Materials
+
+- [Your First Progressive Web App | Web Fundamentals - Google Developers](https://goo.gl/PKp2c5)
+
 ## App Collections
 
-- [Progressive Web Apps](https://goo.gl/9XPv8D)
-- [hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;)](https://goo.gl/vwuJkq)
+- [Progressive Web Apps](https://goo.gl/9XPv8D): Progressive Web Apps collections made by Opera DevRel Team
+- [hemanth/awesome-pwa: Awesome list of progressive web apps!](https://goo.gl/vwuJkq)
 
 ## Feedback
 

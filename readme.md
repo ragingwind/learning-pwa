@@ -9,6 +9,8 @@
   - Codelabs
     - [Your First Progressive Web App | Web Fundamentals - Google Developers](https://goo.gl/PKp2c5)
 
+- [Progressive Web Apps with Alex Russell - YouTube](https://goo.gl/dpvWfa): You can understand, why Progressive Web Apps has emerged, and keenly feel the necessity of the new stage of mobile web app
+
 - [AddyOsmani.com - Getting started with Progressive Web Apps](https://goo.gl/GPyFQ8)
   - All that Progressive Web App
   - Web App Manifest, Home Screen Banner, Service Worker, Push Notification, Advanced features such as Bluetooth

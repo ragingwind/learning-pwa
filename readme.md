@@ -19,6 +19,14 @@
 
 ## Components
 
+### Web Manifest
+
+#### Tools
+
+- [Manifest generator](http://goo.gl/NSZ8XP)
+- [Web Manifest Validator](https://goo.gl/bRwxEa)
+- [Sample manifest of web-starter-kit/manifest.json](https://goo.gl/gLp3aq)
+
 ### Service Worker
 
 - [Adding a Service Worker and Offline into your Web App](https://goo.gl/O6g5NA)

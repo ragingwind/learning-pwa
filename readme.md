@@ -36,6 +36,7 @@
 - [Service Worker Libraries | Web Tools - Google Developers](https://goo.gl/11GFov)
   - [GoogleChrome/sw-precache](https://goo.gl/wgjwOl): A node module to generate service worker code that will precache specific resources
   - [GoogleChrome/sw-toolbox](https://goo.gl/0Ox4UV): A collection of tools for service workers
+- [Service Worker, what are you?](http://kosamari.com/notes/Service-Worker-what-are-you) - Service Worker explanation with illustative sketches
 
 ## Kits, Boilerplates, Skeletons, and Generators
 

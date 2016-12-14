@@ -61,6 +61,7 @@
 
 - [Progressive Web Apps](https://goo.gl/9XPv8D): Progressive Web Apps collections made by Opera DevRel Team
 - [hemanth/awesome-pwa: Awesome list of progressive web apps!](https://goo.gl/vwuJkq)
+- [PWA rocks](https://pwa.rocks/) - Filterable list of Progressive Web Apps
 
 ## Feedback
 
